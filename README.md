@@ -6,7 +6,7 @@ I am a final-year Computer Science student at IUT de Vannes, passionate about fu
 
 I recently interned at Assurance Maladie du Morbihan (CPAM56) 🏥, working on software solutions for the CNSE (Centre National des Soins à l'Étranger).
 
-Check out my [coding portfolio!]([LIEN_PORTFOLIO])
+Check out my [coding portfolio!]([https://melvyn-bariou.vercel.app/])
 
 ## 🚀 What I'm Up To
 - 🌱 Exploring Machine Learning in depth
